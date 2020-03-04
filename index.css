@@ -118,13 +118,6 @@ ul {
 ul {
   margin-top: 50px;
 }
-@import url("https://fonts.googleapis.com/css?family=Open+Sans");
-@import "main.css";
-@import "location.css";
-@import "clock.css";
-@import "weather.css";
-@import "center.css";
-@import "todo.css";
 
 .list {
     margin-bottom: 20px;
